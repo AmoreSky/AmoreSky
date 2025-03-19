@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amore
+- 👋 Hi, I’m Anthonia
 - 👀 I love reading
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on Web development projects
